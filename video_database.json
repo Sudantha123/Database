@@ -22,19 +22,5 @@
     "created_at": "2026-03-02T03:05:18.953090",
     "chat_id": "5132917762",
     "message_id": "81"
-  },
-  {
-    "id": "vid_20260302120104_94",
-    "name": "New.mp4",
-    "repo_name": "vid-20260302120104",
-    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260302120104/main/playlist.m3u8",
-    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260302120104_94.jpg",
-    "duration": 449.4,
-    "resolution": "400x848",
-    "file_size_mb": 54.78,
-    "segments_count": 113,
-    "created_at": "2026-03-02T12:01:20.135723",
-    "chat_id": "5132917762",
-    "message_id": "94"
   }
 ]
