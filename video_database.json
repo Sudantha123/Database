@@ -26,5 +26,19 @@
     "created_at": "2026-03-02T16:04:58.426310",
     "chat_id": "5132917762",
     "message_id": "159"
+  },
+  {
+    "id": "vid_20260302160734_167",
+    "name": "Eden (2024) WEBRip-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260302160734",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260302160734/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260302160734_167.jpg",
+    "duration": 7759.62,
+    "resolution": "854x480",
+    "file_size_mb": 871.44,
+    "segments_count": 1940,
+    "created_at": "2026-03-02T16:10:21.696730",
+    "chat_id": "5132917762",
+    "message_id": "167"
   }
 ]
