@@ -140,20 +140,6 @@
     "message_id": "189"
   },
   {
-    "id": "vid_20260303044617_195",
-    "name": "Luck.2022.720p.WEBRip.x265.HEVC-DubHubLK.mkv",
-    "repo_name": "vid-20260303044617",
-    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260303044617/main/playlist.m3u8",
-    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260303044617_195.jpg",
-    "duration": 6324.27,
-    "resolution": "1280x692",
-    "file_size_mb": 595.93,
-    "segments_count": 1390,
-    "created_at": "2026-03-03T04:47:49.048307",
-    "chat_id": "5132917762",
-    "message_id": "195"
-  },
-  {
     "id": "vid_20260303050226_199",
     "name": "Mr.Peabody.and.Sherman.2014.mp4",
     "repo_name": "vid-20260303050226",
