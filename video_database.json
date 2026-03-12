@@ -390,5 +390,19 @@
     "created_at": "2026-03-12T15:15:43.015004",
     "chat_id": "5132917762",
     "message_id": "340"
+  },
+  {
+    "id": "vid_20260312151632_346",
+    "name": "Whats.New.Scooby-Doo.S01E08.1080p.WEBRip.x264.AAC.mp4",
+    "repo_name": "vid-20260312151632",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312151632/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312151632_346.jpg",
+    "duration": 1266.68,
+    "resolution": "1920x1080",
+    "file_size_mb": 457.7,
+    "segments_count": 314,
+    "created_at": "2026-03-12T15:17:55.104222",
+    "chat_id": "5132917762",
+    "message_id": "346"
   }
 ]
