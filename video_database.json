@@ -530,5 +530,19 @@
     "created_at": "2026-03-12T15:37:35.641218",
     "chat_id": "5132917762",
     "message_id": "348"
+  },
+  {
+    "id": "vid_20260312153822_352",
+    "name": "Whats.New.Scooby-Doo.S02E03.1080p.WEBRip.x264.AAC.mp4",
+    "repo_name": "vid-20260312153822",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312153822/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312153822_352.jpg",
+    "duration": 1280.98,
+    "resolution": "1916x1076",
+    "file_size_mb": 444.87,
+    "segments_count": 319,
+    "created_at": "2026-03-12T15:39:52.761517",
+    "chat_id": "5132917762",
+    "message_id": "352"
   }
 ]
