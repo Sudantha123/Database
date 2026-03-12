@@ -502,5 +502,19 @@
     "created_at": "2026-03-12T15:33:11.712287",
     "chat_id": "5132917762",
     "message_id": "350"
+  },
+  {
+    "id": "vid_20260312153412_342",
+    "name": "Whats.New.Scooby-Doo.S01E04.1080p.WEBRip.x264.AAC.mp4",
+    "repo_name": "vid-20260312153412",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312153412/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312153412_342.jpg",
+    "duration": 1254.63,
+    "resolution": "1920x1080",
+    "file_size_mb": 396.21,
+    "segments_count": 311,
+    "created_at": "2026-03-12T15:35:26.177970",
+    "chat_id": "5132917762",
+    "message_id": "342"
   }
 ]
