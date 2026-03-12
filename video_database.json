@@ -572,5 +572,19 @@
     "created_at": "2026-03-12T16:22:22.339317",
     "chat_id": "5132917762",
     "message_id": "370"
+  },
+  {
+    "id": "vid_20260312162342_372",
+    "name": "Star (2024) Tamil WEB-DL-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260312162342",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312162342/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312162342_372.jpg",
+    "duration": 9448.83,
+    "resolution": "842x350",
+    "file_size_mb": 895.64,
+    "segments_count": 2363,
+    "created_at": "2026-03-12T16:27:13.707027",
+    "chat_id": "5132917762",
+    "message_id": "372"
   }
 ]
