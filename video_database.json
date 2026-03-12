@@ -586,5 +586,19 @@
     "created_at": "2026-03-12T16:27:13.707027",
     "chat_id": "5132917762",
     "message_id": "372"
+  },
+  {
+    "id": "vid_20260312163203_374",
+    "name": "Twisters.2024.WEBRip-CineSubz.co-480p.mp4",
+    "repo_name": "vid-20260312163203",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312163203/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312163203_374.jpg",
+    "duration": 7341.79,
+    "resolution": "842x350",
+    "file_size_mb": 696.18,
+    "segments_count": 1836,
+    "created_at": "2026-03-12T16:34:43.668328",
+    "chat_id": "5132917762",
+    "message_id": "374"
   }
 ]
