@@ -348,5 +348,19 @@
     "created_at": "2026-03-12T05:10:20.106640",
     "chat_id": "5132917762",
     "message_id": "330"
+  },
+  {
+    "id": "vid_20260312052932_332",
+    "name": "One.Piece.S02E08.English.WEB-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260312052932",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260312052932/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260312052932_332.jpg",
+    "duration": 3832.51,
+    "resolution": "854x428",
+    "file_size_mb": 344.8,
+    "segments_count": 958,
+    "created_at": "2026-03-12T05:30:37.200478",
+    "chat_id": "5132917762",
+    "message_id": "332"
   }
 ]
