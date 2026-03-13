@@ -698,5 +698,19 @@
     "created_at": "2026-03-13T11:08:24.205146",
     "chat_id": "5132917762",
     "message_id": "392"
+  },
+  {
+    "id": "vid_20260313110845_394",
+    "name": "Weak.Hero.Class.1.S01E06.Korean.WEB-DL-[CineSubz.co]-720p.mp4",
+    "repo_name": "vid-20260313110845",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260313110845/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260313110845_394.jpg",
+    "duration": 2434.33,
+    "resolution": "1280x720",
+    "file_size_mb": 219.71,
+    "segments_count": 244,
+    "created_at": "2026-03-13T11:09:31.602181",
+    "chat_id": "5132917762",
+    "message_id": "394"
   }
 ]
