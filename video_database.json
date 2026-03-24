@@ -1314,5 +1314,19 @@
     "created_at": "2026-03-24T04:16:22.105631",
     "chat_id": "5132917762",
     "message_id": "549"
+  },
+  {
+    "id": "vid_20260324050347_551",
+    "name": "Dhurandhar (2025) Hindi V2  WEB-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260324050347",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260324050347/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260324050347_551.jpg",
+    "duration": 12334.78,
+    "resolution": "854x480",
+    "file_size_mb": 1176.69,
+    "segments_count": 3084,
+    "created_at": "2026-03-24T05:07:15.853222",
+    "chat_id": "5132917762",
+    "message_id": "551"
   }
 ]
