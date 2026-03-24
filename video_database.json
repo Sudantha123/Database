@@ -1286,5 +1286,19 @@
     "created_at": "2026-03-23T10:21:02.373564",
     "chat_id": "5132917762",
     "message_id": "544"
+  },
+  {
+    "id": "vid_20260324040800_547",
+    "name": "CineSubz.com - Howl.2015 480p.mp4",
+    "repo_name": "vid-20260324040800",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260324040800/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260324040800_547.jpg",
+    "duration": 5544.71,
+    "resolution": "858x358",
+    "file_size_mb": 493.29,
+    "segments_count": 1090,
+    "created_at": "2026-03-24T04:09:31.309408",
+    "chat_id": "5132917762",
+    "message_id": "547"
   }
 ]
