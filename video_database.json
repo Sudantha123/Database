@@ -1398,5 +1398,19 @@
     "created_at": "2026-03-28T16:29:03.359130",
     "chat_id": "5132917762",
     "message_id": "26"
+  },
+  {
+    "id": "vid_20260328163047_28",
+    "name": "Border 2 (2026) Hindi WEB-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260328163047",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260328163047/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260328163047_28.jpg",
+    "duration": 12107.46,
+    "resolution": "854x358",
+    "file_size_mb": 1152.2,
+    "segments_count": 3027,
+    "created_at": "2026-03-28T16:33:42.861552",
+    "chat_id": "5132917762",
+    "message_id": "28"
   }
 ]
