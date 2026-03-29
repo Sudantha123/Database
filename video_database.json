@@ -1412,5 +1412,19 @@
     "created_at": "2026-03-28T16:33:42.861552",
     "chat_id": "5132917762",
     "message_id": "28"
+  },
+  {
+    "id": "vid_20260329012258_31",
+    "name": "CineSubz.com - June 2019 480p.mp4",
+    "repo_name": "vid-20260329012258",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260329012258/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260329012258_31.jpg",
+    "duration": 8422.35,
+    "resolution": "858x364",
+    "file_size_mb": 704.32,
+    "segments_count": 2078,
+    "created_at": "2026-03-29T01:24:41.613117",
+    "chat_id": "5132917762",
+    "message_id": "31"
   }
 ]
