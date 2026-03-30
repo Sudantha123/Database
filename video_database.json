@@ -1804,5 +1804,19 @@
     "created_at": "2026-03-30T18:35:33.422892",
     "chat_id": "5132917762",
     "message_id": "93"
+  },
+  {
+    "id": "vid_20260330183610_95",
+    "name": "Stranger.Things.S03E08.WEBRip-[CineSubz.com]-480p.mp4",
+    "repo_name": "vid-20260330183610",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260330183610/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260330183610_95.jpg",
+    "duration": 4659.54,
+    "resolution": "854x480",
+    "file_size_mb": 365.43,
+    "segments_count": 1165,
+    "created_at": "2026-03-30T18:37:13.595734",
+    "chat_id": "5132917762",
+    "message_id": "95"
   }
 ]
