@@ -1566,5 +1566,19 @@
     "created_at": "2026-03-30T18:18:54.460485",
     "chat_id": "5132917762",
     "message_id": "55"
+  },
+  {
+    "id": "vid_20260330181909_57",
+    "name": "Stranger.Things.S01E08.WEBRip-[CineSubz.com]-480p.mp4",
+    "repo_name": "vid-20260330181909",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260330181909/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260330181909_57.jpg",
+    "duration": 3273.0,
+    "resolution": "854x428",
+    "file_size_mb": 181.65,
+    "segments_count": 807,
+    "created_at": "2026-03-30T18:19:44.806799",
+    "chat_id": "5132917762",
+    "message_id": "57"
   }
 ]
