@@ -2420,5 +2420,19 @@
     "created_at": "2026-04-17T03:43:52.999083",
     "chat_id": "5132917762",
     "message_id": "214"
+  },
+  {
+    "id": "vid_20260420021526_220",
+    "name": "CineSubz_com_Loveyatri_The_Journey_of_Love_2018_Hindi_Proper_480p.mp4",
+    "repo_name": "vid-20260420021526",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260420021526/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260420021526_220.jpg",
+    "duration": 7975.1,
+    "resolution": "854x362",
+    "file_size_mb": 686.55,
+    "segments_count": 1994,
+    "created_at": "2026-04-20T02:17:15.328793",
+    "chat_id": "5132917762",
+    "message_id": "220"
   }
 ]
