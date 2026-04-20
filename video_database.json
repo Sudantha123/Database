@@ -2476,5 +2476,19 @@
     "created_at": "2026-04-20T06:33:42.576148",
     "chat_id": "5132917762",
     "message_id": "226"
+  },
+  {
+    "id": "vid_20260420063513_228",
+    "name": "Dhadak 2 (2025) Hindi WEB-DL-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260420063513",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260420063513/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260420063513_228.jpg",
+    "duration": 8586.3,
+    "resolution": "854x480",
+    "file_size_mb": 814.04,
+    "segments_count": 2147,
+    "created_at": "2026-04-20T06:37:29.023370",
+    "chat_id": "5132917762",
+    "message_id": "228"
   }
 ]
