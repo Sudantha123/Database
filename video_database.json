@@ -2518,5 +2518,19 @@
     "created_at": "2026-04-26T07:18:33.511192",
     "chat_id": "5132917762",
     "message_id": "236"
+  },
+  {
+    "id": "vid_20260427042657_238",
+    "name": "Wednesday.S02E03.English.WEBRip-[CineSubz.co]-480p.mp4",
+    "repo_name": "vid-20260427042657",
+    "m3u8_url": "https://raw.githubusercontent.com/Sudantha123/vid-20260427042657/main/playlist.m3u8",
+    "thumbnail_url": "https://raw.githubusercontent.com/Sudantha123/Thumbnail-/main/vid_20260427042657_238.jpg",
+    "duration": 3587.69,
+    "resolution": "854x480",
+    "file_size_mb": 313.81,
+    "segments_count": 359,
+    "created_at": "2026-04-27T04:27:56.215818",
+    "chat_id": "5132917762",
+    "message_id": "238"
   }
 ]
